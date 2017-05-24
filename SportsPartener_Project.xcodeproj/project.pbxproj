@@ -17,7 +17,6 @@
 		70141FBE1EB3514A00505E90 /* searchPartenerGoogleMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70141FBD1EB3514900505E90 /* searchPartenerGoogleMap.swift */; };
 		70141FC11EB351EA00505E90 /* findSearcPartenerEnterLocationResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70141FC01EB351EA00505E90 /* findSearcPartenerEnterLocationResult.swift */; };
 		70211E8A1ED54AD90038749C /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 704EBC131EB9BAFB00D926D5 /* QuartzCore.framework */; };
-		70211EE21ED54CA70038749C /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 70211EE11ED54CA70038749C /* .gitignore */; };
 		70386C431EBB2451003A1E55 /* temp.m in Sources */ = {isa = PBXBuildFile; fileRef = 70386C421EBB2450003A1E55 /* temp.m */; };
 		704303E11EA0AB430038A7B5 /* EnterYourDetailPopUpMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 704303E01EA0AB430038A7B5 /* EnterYourDetailPopUpMenu.swift */; };
 		704303E81EA0B1440038A7B5 /* EnterYourDetailPopUpCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 704303E71EA0B1440038A7B5 /* EnterYourDetailPopUpCell.swift */; };
@@ -109,7 +108,6 @@
 		70072E491EB0A75F00B9004A /* AddClassInformationFirst.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddClassInformationFirst.swift; sourceTree = "<group>"; };
 		70141FBD1EB3514900505E90 /* searchPartenerGoogleMap.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = searchPartenerGoogleMap.swift; sourceTree = "<group>"; };
 		70141FC01EB351EA00505E90 /* findSearcPartenerEnterLocationResult.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = findSearcPartenerEnterLocationResult.swift; sourceTree = "<group>"; };
-		70211EE11ED54CA70038749C /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		70386C421EBB2450003A1E55 /* temp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = temp.m; sourceTree = "<group>"; };
 		704303E01EA0AB430038A7B5 /* EnterYourDetailPopUpMenu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EnterYourDetailPopUpMenu.swift; sourceTree = "<group>"; };
 		704303E71EA0B1440038A7B5 /* EnterYourDetailPopUpCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EnterYourDetailPopUpCell.swift; sourceTree = "<group>"; };
@@ -265,7 +263,6 @@
 		70211E8B1ED54B010038749C /* Google-Maps-iOS-Utils */ = {
 			isa = PBXGroup;
 			children = (
-				70211EE11ED54CA70038749C /* .gitignore */,
 			);
 			name = "Google-Maps-iOS-Utils";
 			sourceTree = "<group>";
@@ -607,7 +604,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				70211EE21ED54CA70038749C /* .gitignore in Resources */,
 				70DBF4A81E8A57FC007423F0 /* LaunchScreen.storyboard in Resources */,
 				70DBF4A51E8A57FC007423F0 /* Assets.xcassets in Resources */,
 				70DBF4A01E8A57FC007423F0 /* Main.storyboard in Resources */,
